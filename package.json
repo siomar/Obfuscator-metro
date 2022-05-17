@@ -1,5 +1,5 @@
 {
-  "name": "@obfuscator/metro",
+  "name": "@siomarjr/obfuscator-metro",
   "version": "1.0.0",
   "main": "./lib",
   "license": "MIT",
@@ -23,5 +23,23 @@
   },
   "peerDependencies": {
     "react-native": ">=0.45.0"
-  }
+  },
+  "description": "Este pacote serve para ofuscar os código desenvolvido em projeto React-Native",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siomar/Obfuscator-metro.git"
+  },
+  "keywords": [
+    "react-native",
+    "metro",
+    "javascript-obfuscator"
+  ],
+  "author": "Siomar Velloso",
+  "bugs": {
+    "url": "https://github.com/siomar/Obfuscator-metro/issues"
+  },
+  "homepage": "https://github.com/siomar/Obfuscator-metro#readme"
 }
