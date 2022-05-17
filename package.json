@@ -1,0 +1,27 @@
+{
+  "name": "@obfuscator/metro",
+  "version": "1.0.0",
+  "main": "./lib",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.13.13",
+    "@babel/traverse": "^7.13.13",
+    "@types/babel__core": "^7.1.14",
+    "@types/babel__generator": "^7.6.2",
+    "@types/node": "^14.14.37",
+    "fs-extra": "^10.1.0",
+    "javascript-obfuscator": "^2.11.0",
+    "source-map": "^0.6.1"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1",
+    "react-native": "^0.64.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.45.0"
+  }
+}
