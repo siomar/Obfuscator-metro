@@ -1,11 +1,13 @@
 
+![Logo](https://cms-assets.tutsplus.com/cdn-cgi/image/width=630/uploads/users/23/posts/27008/image/how-to-mentally-reset-your-brain.jpg)
+
 # Obfuscator Metro
 
 Este pacote serve para ofuscar o código desenvolvido em projeto React-Native utilizando como base o javascript-obfuscator
 
 ## Uso
 
-    Para ofuscar bastar criar um arquivo .ts ou .tsx que possui o nome "obfuscate." dentro do diretorio "src/"
+    Para ofuscar basta criar um arquivo .ts ou .tsx que possui no nome "obfuscate." dentro do diretorio "src/"
 
 ## Instalação
 
